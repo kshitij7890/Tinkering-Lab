@@ -1,0 +1,8 @@
+open index.html
+
+I have designed the basic homepage for TLAB 
+along with sign in and sign up pages .
+
+Hope you like it.
+
+KSHITIJ KUMAR
